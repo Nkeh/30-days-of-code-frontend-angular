@@ -21,6 +21,11 @@
     }
 }
 
+#content {
+    display: none;
+}
+
+
 body.loaded #loader {
     display: none;
 }
