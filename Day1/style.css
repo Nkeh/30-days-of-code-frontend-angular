@@ -53,3 +53,9 @@ main {
 #date {
     font-size: 50px;
 }
+
+.time{
+
+    align-self: baseline;
+    justify-self: right;
+}
